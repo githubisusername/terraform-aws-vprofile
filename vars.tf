@@ -32,7 +32,7 @@ variable "rmqpass" {
   default = "April112001@"
 }
 
-variable "user" {
+variable "dbuser" {
   default = "admin"
 }
 variable "dbpass" {
